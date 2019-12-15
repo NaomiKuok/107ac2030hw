@@ -1,0 +1,12 @@
+html {
+    height: 100%;
+}
+.bg{
+    height: 2351px;
+    width: 1280px;
+    border: 1px solid white;
+    background-color: white;
+
+    background-image: url(./img/backgroud..png);
+
+}
